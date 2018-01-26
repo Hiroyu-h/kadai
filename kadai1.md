@@ -41,4 +41,4 @@ imagesc(IMG2); axis image; % 画像の表示
 このプログラムを実行することで原画像のダウンサンプリングが行われる．  
 結果は以下の通りである．  
 
-![Alt text](MATLAB/kadai1/kadai1_1.fig)  図１　原画像  
+![Alt text](MATLAB/kadai1/kadai1_6.png)  図１　原画像  
