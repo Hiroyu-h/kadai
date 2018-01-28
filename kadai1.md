@@ -41,4 +41,15 @@ imagesc(IMG2); axis image; % 画像の表示
 このプログラムを実行することで原画像のダウンサンプリングが行われる．  
 結果は以下の通りである．  
 
-![Alt text](https://github.com/Hiroyu-h/kadai/blob/master/neko.png)  図１　原画像  
+![Alt text](https://github.com/Hiroyu-h/kadai/blob/master/neko.png)  図１　原画像    
+1/2倍では，以下のようになる．   
+![Alt text](https://github.com/Hiroyu-h/kadai/blob/master/kadai1_1.png)  図２　1/2倍画像  
+1/4倍では，以下のようになる．  
+![Alt text](https://github.com/Hiroyu-h/kadai/blob/master/kadai1_2.png)  図３　1/4倍画像  
+1/8倍では，以下のようになる．
+![Alt text](https://github.com/Hiroyu-h/kadai/blob/master/kadai1_3.png)  図４　1/8倍画像  
+1/16倍では，以下のようになる．  
+![Alt text](https://github.com/Hiroyu-h/kadai/blob/master/kadai1_4.png)  図５　1/16倍画像  
+1/32倍では，以下のようになる．  
+![Alt text](https://github.com/Hiroyu-h/kadai/blob/master/kadai1_5.png)  図６　1/32倍画像  
+このように，標本化間隔を広くとっていくとモザイク状のノイズが見られるようになる．
