@@ -1,7 +1,7 @@
 # 課題１　標本化間隔と空間解像度
 
 標本化間隔を広くすることによる解像度の変化を確認する．
-下記はプログラムである．標本化間隔を広くするには原画像を縮小した後画像を拡大する．
+下記はそのプログラムである．標本化間隔を広くするには原画像を縮小した後画像を拡大する．
 
 clear; % 変数のオールクリア
 
@@ -41,4 +41,4 @@ imagesc(IMG2); axis image; % 画像の表示
 このプログラムを実行することで原画像のダウンサンプリングが行われる．  
 結果は以下の通りである．  
 
-![Alt text](https://github.com/Hiroyu-h/kadai/blob/master/kadai1_6.png)  図１　原画像  
+![Alt text](https://github.com/Hiroyu-h/kadai/blob/master/kadai1_6.png)  図１　原画像  
